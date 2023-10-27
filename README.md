@@ -8,7 +8,7 @@
   <p style="" align="right">
     <img src="./j.gif" alt="Your Animation" width="200" />
   </p>
-</div>
+
 
 - 🔭 I’m currently working on **Backend APIs**
 
