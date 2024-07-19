@@ -9,17 +9,17 @@
   </p>
 
 
-- 🔭 I’m currently working on **Backend APIs**
+- 🔭 I’m currently working on **Preparation for another internship **
 
-- 🌱 I’m currently learning **Full Stack Web Development from Internshala Training**
+- 🌱 I recently completed my **Software Engineer Internship**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 🤝 I’m looking for help with **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-info.netlify.app/#](my-portfolio-info.netlify.app/#)
+- 👨‍💻 All of my projects are available at (https://github.com/piku-code)
 
-- 💬 Ask me about **React, Node.js, Full Stack Web Development**
+- 💬 Ask me about **React, Node.js, javascript, Full Stack Web Development**
 
 - 📫 How to reach me **Priyanshu61361lamba@gmail.com**
 
