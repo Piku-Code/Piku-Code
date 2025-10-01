@@ -9,7 +9,7 @@
   </p>
 
 
-- 🔭 I’m currently working on **Preparation for another internship **
+- 🔭 I’m currently working on **as Software Engineer @ Padel India  **
 
 - 🌱 I recently completed my **Software Engineer Internship**
 
