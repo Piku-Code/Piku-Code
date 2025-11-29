@@ -1,39 +1,127 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Paste this into your README.md -->
+<section id="pri-hero">
+  <h1>// ================================</h1>
+  <h2>//  PRIYANSHU LAMBA — Resume.js</h2>
+  <h3>//  Full Stack Software Engineer — MERN | React | Node | Angular</h3>
+  <h1>// ================================</h1>
+</section>
 
+<pre><code class="language-js">
+// Resume.js — Priyanshu Lamba
+const Priyanshu = {
+  name: "Priyanshu Lamba",
+  role: "Software Engineer",
+  location: "Muzaffarnagar, UP, India",
+  contact: {
+    email: "priyanshu61361lamba@gmail.com",
+    phone: "+91 6397215352",
+    linkedin: "https://linkedin.com/in/priyanshu",
+    github: "https://github.com/Piku-Code"
+  },
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piku-code" alt="piku-code" /></a> </p>
- <!-- Add your animation image here -->
-  <p style="" align="right">
-    <img src="./j.gif" alt="Your Animation" width="200" />
-  </p>
+  // TECH STACK
+  technicalSkills: {
+    frontend: ["React.js", "Angular", "JavaScript (ES6)", "TypeScript", "HTML", "CSS", "Tailwind"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "Docker", "Postman", "Webpack"],
+    languages: ["English", "Hindi"]
+  },
 
+  // EXPERIENCE
+  experience: [
+    {
+      role: "Software Engineer",
+      company: "AH PADEL INDIA PRIVATE LIMITED",
+      duration: "09/2024 – Present",
+      highlights: [
+        "Built & maintained full admin panel single-handedly.",
+        "Implemented pagination reducing load time by 30%.",
+        "Improved UI clarity — increased admin efficiency by 20%."
+      ]
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "AH PADEL INDIA PRIVATE LIMITED",
+      duration: "07/2024 – 09/2024",
+      highlights: ["Converted to full-time within 2 months."]
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "Ebisu Technologies Pvt Ltd",
+      duration: "03/2024 – 07/2024",
+      highlights: [
+        "Developed & optimized 50%+ UI components.",
+        "Used Docker to improve deployment efficiency."
+      ]
+    }
+  ],
 
-- 🔭 I’m currently working on **as Software Engineer @ Padel India  **
+  // PROJECTS
+  projects: [
+    {
+      name: "Padel & Pickleball Booking Web App",
+      tech: ["React", "Tailwind CSS", "Redux Toolkit", "REST APIs"],
+      details: [
+        "Converted Figma UI to production-ready responsive website.",
+        "Built full frontend with optimized performance & API integration."
+      ]
+    }
+  ],
 
-- 🌱 I recently completed my **Software Engineer Internship**
+  education: {
+    degree: "Bachelor of Computer Application",
+    college: "Shri Ram College"
+  },
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+  summary() {
+    return "Results-driven Software Engineer with ~2 years experience building user-focused web apps using React & Node.";
+  }
+};
 
-- 🤝 I’m looking for help with **Full Stack Web Development**
+// Run to know Priyanshu
+Priyanshu.hire && Priyanshu.hire();
+</code></pre>
 
-- 👨‍💻 All of my projects are available at (https://github.com/piku-code)
+<!-- Quick profile cards (Markdown-friendly, will show in GitHub) -->
+### 📌 Quick Profile
+**Priyanshu Lamba** — Software Engineer  
+Muzaffarnagar, UP, India • `priyanshu61361lamba@gmail.com` • +91 63972 15352  
+[LinkedIn](https://linkedin.com/in/priyanshu) • [GitHub](https://github.com/Piku-Code)
 
-- 💬 Ask me about **React, Node.js, javascript, Full Stack Web Development**
+---
 
-- 📫 How to reach me **Priyanshu61361lamba@gmail.com**
+### 🛠 Tech Stack
+**Frontend:** React.js · Angular · TypeScript · Tailwind  
+**Backend:** Node.js · Express · REST APIs  
+**DB:** MongoDB · MySQL  
+**Tools:** Git · Docker · Postman · Vite / Webpack
 
-- ⚡ Fun fact **Like to tease and curiosity**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-40a818224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-kumar-40a818224" height="30" width="40" /></a>
-</p>
+### 💼 Experience Highlights
+- Built and maintained a full admin panel for a sports-tech startup; implemented pagination and UI optimizations that reduced load time by ~30% and improved admin efficiency.  
+- Fast-tracked from intern to full-time within 2 months at AH Padel India.  
+- Improved and shipped critical frontend components at Ebisu Technologies; used Docker for deployments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🧩 Projects
+**Padel & Pickleball Booking App** — Converted Figma to a responsive production web app using React, Tailwind, and Redux Toolkit. Integrated APIs and ensured cross-device compatibility.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piku-code&show_icons=true&locale=en&layout=compact" alt="piku-code" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piku-code&show_icons=true&locale=en" alt="piku-code" /></p>
+### 🎓 Education
+**BCA** — Shri Ram College (Computer Science coursework: OOPS, C/C++, Java, DSA)
+
+---
+
+### ✨ Short Summary
+Results-driven Software Engineer with ~2 years of MERN experience. I build scalable, user-focused apps, take ownership of features end-to-end, and thrive in fast-paced startup environments.
+
+---
+
+If you'd like:
+- this file as a ready-to-commit `README.md` (I can give the final Markdown),  
+- a version styled like a **terminal/VSCode** theme (Markdown + badges), or  
+- the HTML converted to **pure Markdown** for best GitHub compatibility — tell me which and I’ll provide it.
